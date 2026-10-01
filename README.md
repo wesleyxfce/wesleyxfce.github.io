@@ -15,11 +15,12 @@ O site utiliza uma aparência inspirada no tema Dracula, com cores escuras e det
 
 📁 Estrutura
 
-.
+```text
 ├── index.html
 ├── style.css
 ├── favicon.svg
 └── README.md
+```
 
 🌐 Acesse o site
 
