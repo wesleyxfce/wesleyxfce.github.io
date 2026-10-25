@@ -1,19 +1,15 @@
-☕ Meu Primeiro Site
+# Meu Primeiro Site
 
 Meu primeiro projeto desenvolvido usando HTML e CSS.
 
 Este site foi criado como uma forma de praticar desenvolvimento web, aprendendo a estruturar páginas com HTML e personalizar sua aparência usando CSS.
 
-🛠️ Tecnologias
+# Tecnologias
 
 * HTML5 — estrutura da página
-* CSS3 — estilos, cores e layout
+* CSS3 — estilos, cores e layout Visual
 
-🎨 Visual
-
-O site utiliza uma aparência inspirada no tema Dracula, com cores escuras e detalhes em tons de roxo.
-
-📁 Estrutura
+# Estrutura
 
 ```text
 ├── index.html
@@ -22,11 +18,11 @@ O site utiliza uma aparência inspirada no tema Dracula, com cores escuras e det
 └── README.md
 ```
 
-🌐 Acesse o site
+# Acesse o site
 
 wesleyxfce.github.io
 
-📚 Sobre o projeto
+# Sobre o projeto
 
 Este projeto faz parte da minha jornada aprendendo programação e desenvolvimento web.
 
