@@ -1,15 +1,15 @@
-# Meu Primeiro Site
+# My First Website
 
-Meu primeiro projeto desenvolvido usando HTML e CSS.
+My first project built with HTML and CSS.
 
-Este site foi criado como uma forma de praticar desenvolvimento web, aprendendo a estruturar páginas com HTML e personalizar sua aparência usando CSS.
+This website was created as a way to practice web development, learning how to structure pages with HTML and customize their appearance with CSS.
 
-# Tecnologias
+# Technologies
 
-* HTML5 — estrutura da página
-* CSS3 — estilos, cores e layout Visual
+* HTML5 — page structure
+* CSS3 — styles, colors, and visual layout
 
-# Estrutura
+# Structure
 
 ```text
 ├── index.html
@@ -18,12 +18,12 @@ Este site foi criado como uma forma de praticar desenvolvimento web, aprendendo 
 └── README.md
 ```
 
-# Acesse o site
+# Visit the site
 
-wesleyxfce.github.io
+[wesleyxfce.github.io](https://wesleyxfce.github.io)
 
-# Sobre o projeto
+# About the project
 
-Este projeto faz parte da minha jornada aprendendo programação e desenvolvimento web.
+This project is part of my journey learning programming and web development.
 
-Foi desenvolvido para colocar em prática conceitos básicos de HTML e CSS e, aos poucos, experimentar novas ideias e melhorar o projeto.
+It was built to put basic HTML and CSS concepts into practice and, little by little, to try out new ideas and improve the project.
